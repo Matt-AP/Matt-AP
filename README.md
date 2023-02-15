@@ -1,6 +1,6 @@
 <div id="header" align = "center">
   <div>
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Sin gif" width="450px"/>
+    <img src="https://github.com/Matt-AP/RECURSOS/blob/main/banner.jpg" alt="Sin imagen" width="100%">
     <div class="">
       <h1>Hi there 👋 , I'm Mateo Arcila</h1>
       <h2>Software and web developer And lifelong learner</h2>
