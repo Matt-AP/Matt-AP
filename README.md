@@ -33,6 +33,9 @@
           src="https://img.shields.io/twitter/follow/Mateo%20Arcila?color=red&label=matthewdevelop.com&logo=GOOGLE&logoColor=red&style=for-the-badge"
         />
       </a>
+      <a href="https://matthewdevelop.com/" target="_blank">
+        <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Instagram&logo=instagram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fmatthew_arcil%2F">
+      </a>
     </div>
     
   </div>
